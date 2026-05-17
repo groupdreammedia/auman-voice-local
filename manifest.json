@@ -1,9 +1,9 @@
 {
-  "version": "0.1.0",
+  "version": "0.1.2",
   "runtime": {
     "url": "https://huggingface.co/dreammedia123/auman-voice-local/resolve/main/runtime.zip",
-    "sha256": "d5bfbb6107e3bcd59ce0c4415c5ab07defc0426d98b57533c13b293842901d3f",
-    "size_bytes": 2895388104
+    "sha256": "b06c53e4dd60305ab0e3c64b3d856fd6dbf77884c32070bca45e92b8f386a0b8",
+    "size_bytes": 2979833581
   },
   "weights": {
     "url": "",
